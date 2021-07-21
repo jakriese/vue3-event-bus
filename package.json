@@ -1,0 +1,25 @@
+{
+  "name": "vue3-event-bus",
+  "version": "0.0.1",
+  "description": "A simple event bus solution for Vue 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakriese/vue3-event-bus.git"
+  },
+  "keywords": [
+    "Vue",
+    "Vue3",
+    "event",
+    "bus"
+  ],
+  "author": "Joshua Kriese",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakriese/vue3-event-bus/issues"
+  },
+  "homepage": "https://github.com/jakriese/vue3-event-bus#readme"
+}
