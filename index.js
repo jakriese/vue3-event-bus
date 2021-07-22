@@ -21,7 +21,6 @@ export default {
         }
         this.instances[uid].push({ type, callback });
         this.addEventListener(type, callback);
-        console.log(this.instances);
       }
 
       emit(type, payload) {
