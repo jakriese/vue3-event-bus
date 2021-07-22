@@ -1,6 +1,6 @@
 {
   "name": "@jakriese/vue3-event-bus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple event bus solution for Vue 3",
   "main": "index.js",
   "scripts": {
