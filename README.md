@@ -5,7 +5,7 @@ A simple event bus for Vue 3
 After you've added the package to your project, you'll need to add the plugin to your Vue app with the `use()` method.
 
 ```
-import eventbus from 'vue3-event-bus';
+import eventbus from '@jakriese/vue3-event-bus';
 
 const app = createApp(Root);
 app.use(eventbus);
